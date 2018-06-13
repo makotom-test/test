@@ -1,6 +1,6 @@
 {
     const helloWorld = (name: string) => {
-        console.error(`Hello ${name}.`);
+        console.error(`${name} nya-.`);
     };
 
     helloWorld('hogehoge');
